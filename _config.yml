@@ -1,3 +1,5 @@
 markdown: redcarpet
 baseurl:
 exclude: ['README.md']
+
+theme: jekyll-theme-midnight
